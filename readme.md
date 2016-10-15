@@ -75,7 +75,7 @@ php-transpiler transpile /src /out
 
 ### Library
 
-Not documented yet :/
+http://stackoverflow.com/questions/28442158/how-to-force-a-package-to-be-installed
 
 
 [![Latest Stable Version](https://poser.pugx.org/brownbear/php-transpiler/v/stable)](https://packagist.org/packages/brownbear/php-transpiler)
